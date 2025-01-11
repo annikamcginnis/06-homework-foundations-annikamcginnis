@@ -1,4 +1,4 @@
-### Homework 6: Pandas
+# Homework 6: Pandas
 
 This repo contains two homework assignments for the Foundations class of Columbia University's Data Journalism masters program, fall 2024. It is an introduction to the Pandas Python library.
 
